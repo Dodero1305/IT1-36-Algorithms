@@ -3,4 +3,4 @@ project(Algorithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algorithms driver_code.cpp utility/array_handler.cpp sorting/sorting.h sorting/sorting.cpp)
+add_executable(Algorithms driver_code.cpp utility/src/array_handler.cpp sorting/headers/sorting.h sorting/src/sorting.cpp number/src/prime_checker.cpp number/headers/prime_checker.h number/headers/number.h it1_36.h utility/headers/array_handler.h utility/headers/utility.h)
