@@ -3,4 +3,4 @@ project(Algorithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algorithms main.cpp utility/array_handler.cpp sorting/sorting.h sorting/sorting.cpp)
+add_executable(Algorithms driver_code.cpp utility/array_handler.cpp sorting/sorting.h sorting/sorting.cpp)
