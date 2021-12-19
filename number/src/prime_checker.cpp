@@ -22,4 +22,3 @@ bool is_prime_sieve_of_eratothenes(int n) {
 }
 
 
-bool is_prime
